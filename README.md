@@ -2,6 +2,7 @@
 
 
 Boilerplate project for HTTP Basic Authentication for stateless request
+
 Default Login credential *email* is replaced by *username*
 
 ### Installation
